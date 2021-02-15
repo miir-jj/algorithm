@@ -65,7 +65,6 @@ public class BOJ1303 {
 		}
 		return sum;
 	}
-
 }
 
 
