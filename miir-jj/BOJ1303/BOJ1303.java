@@ -30,7 +30,6 @@ public class BOJ1303 {
 		}
 		System.out.println(findTeam('W')+" "+findTeam('B'));
 	}
-
 	public static int findTeam(char c) {
 		int num = 0;
 		int sum = 0;
