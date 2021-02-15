@@ -55,7 +55,6 @@ public class BOJ1303 {
 								team.offer(new int[] {nr,nc});
 								isVisited[nr][nc]=true;
 								++num;
-								
 							}
 						}
 					}
