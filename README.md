@@ -14,14 +14,3 @@
 2. 기타 리뷰는 __Conversation__ 에 작성합니다.
 2. 모든 문제에 리뷰를 1줄 이상 작성합니다. (매주 15개 문제)
 
-## 브랜치 별 PR 방법
-1. git checkout main
-2. git branch [브랜치명]
-3. git checkout [브랜치명]
-4. 파일 옮기기
-5. git status로 확인
-6. git add [폴더명]
-7. git commit -m "커밋메세지"
-8. git push
-9. pr 작성
-10. git checkout main
