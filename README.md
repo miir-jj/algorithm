@@ -18,7 +18,7 @@
 1. git checkout main
 2. git branch [브랜치명]
 3. git checkout [브랜치명]
-4. 파일 옮기기
+4. 폴더 옮기기
 5. git status로 확인
 6. git add [폴더명]
 7. git commit -m "커밋메세지"
